@@ -1,3 +1,6 @@
+# Hassan Afif
+# Classe de CP 0
+
 $utilisateurs = import-csv users.csv -Delimiter ";"
 
 foreach ($getuser in $utilisateurs) {
